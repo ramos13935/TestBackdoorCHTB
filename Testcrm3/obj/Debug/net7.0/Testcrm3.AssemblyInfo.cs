@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TestCMR")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Testcrm3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("TestCMR")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TestCMR")]
+[assembly: System.Reflection.AssemblyProductAttribute("Testcrm3")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Testcrm3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

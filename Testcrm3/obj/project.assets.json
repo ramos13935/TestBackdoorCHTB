@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\CarlosR\\Desktop\\cibersguridad\\HTB\\back2\\TestCMR\\TestCMR.csproj",
-      "projectName": "TestCMR",
-      "projectPath": "c:\\Users\\CarlosR\\Desktop\\cibersguridad\\HTB\\back2\\TestCMR\\TestCMR.csproj",
+      "projectUniqueName": "c:\\Users\\CarlosR\\Desktop\\cibersguridad\\HTB\\back3\\Testcrm3\\Testcrm3.csproj",
+      "projectName": "Testcrm3",
+      "projectPath": "c:\\Users\\CarlosR\\Desktop\\cibersguridad\\HTB\\back3\\Testcrm3\\Testcrm3.csproj",
       "packagesPath": "C:\\Users\\CarlosR\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\CarlosR\\Desktop\\cibersguridad\\HTB\\back2\\TestCMR\\obj\\",
+      "outputPath": "c:\\Users\\CarlosR\\Desktop\\cibersguridad\\HTB\\back3\\Testcrm3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CarlosR\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -55,6 +55,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

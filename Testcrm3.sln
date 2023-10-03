@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCMR", "TestCMR\TestCMR.csproj", "{DF308184-8862-4A5B-ABB0-5CD4B5E88A31}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testcrm3", "Testcrm3\Testcrm3.csproj", "{0DB618F0-5A3A-46C2-951C-CCD1C51E6AF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DF308184-8862-4A5B-ABB0-5CD4B5E88A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DF308184-8862-4A5B-ABB0-5CD4B5E88A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DF308184-8862-4A5B-ABB0-5CD4B5E88A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DF308184-8862-4A5B-ABB0-5CD4B5E88A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB618F0-5A3A-46C2-951C-CCD1C51E6AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB618F0-5A3A-46C2-951C-CCD1C51E6AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB618F0-5A3A-46C2-951C-CCD1C51E6AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB618F0-5A3A-46C2-951C-CCD1C51E6AF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
